@@ -1,10 +1,3 @@
-:smile: : My name id Vongsakorn . <br>
-:tada: : Fresh grade Junior Full Stack developer .<br>
-:mortar_board: : RMUTL TAK IT 06 . <br>
-:guitar: : Musics is my life .<br>
-:computer: : Apex legend player .<br>
-:unlock:    : Learning everytiing .<br>
-:page_with_curl:   : HTML, CSS, SASS, Javascript, Jquery, Vue.Js, PHP, Laravel ;  <br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is VONGSAKORN KETSURIYONG
 ==============================================================================================================================================
 
